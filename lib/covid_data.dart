@@ -6,10 +6,10 @@ import 'package:geolocator/geolocator.dart';
 const worldCovidDataUrl =
     'https://coronavirus-monitor.p.rapidapi.com/coronavirus/worldstat.php';
 const geoLocUrl = 'https://maps.googleapis.com/maps/api/geocode/json';
-const geocodingApiKey = 'AIzaSyCzs01UjJfGqSxK7Hx0ilIvpceSIr6gurc';
+const geocodingApiKey = '';
 const countryCovidDataUrl =
     'https://coronavirus-monitor.p.rapidapi.com/coronavirus/latest_stat_by_country.php';
-const newsApiKey = '4c06009a029948d2bb95b1bf2fa465db';
+const newsApiKey = '';
 const newsUrl = 'http://newsapi.org/v2/top-headlines';
 
 class CovidModel {
